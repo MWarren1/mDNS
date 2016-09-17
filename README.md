@@ -9,10 +9,9 @@ usage: mDNS [-h] --domain DOMAIN --subdomains SUBDOMAINS
 Find DNS records
 
 optional arguments:
-  -h, --help            show this help message and exit
-  --domain DOMAIN       base domain to search
-  --subdomains SUBDOMAINS
-                        file that contains subdomains
+  -h, --help                show this help message and exit
+  --domain DOMAIN           base domain to search
+  --subdomains SUBDOMAINS   file that contains subdomains
 
 ``` 
 
